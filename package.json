@@ -23,7 +23,7 @@
     "mongoose": "^5.5.14",
     "passport": "^0.4.0",
     "passport-bnet": "^2.0.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
